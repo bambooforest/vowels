@@ -1,0 +1,24 @@
+---
+title: "Vowels in the world's languages"
+author: "Steven Moran"
+date: "(26 September, 2022)"
+output:
+  github_document
+---
+
+# Introduction
+
+Some cool text about **vowels** in the world's *languages*!
+
+* Item 1
+* Item 2
+
+Steve says:
+
+>>> Blah blah blah
+
+# Methods
+
+# Results
+
+# Conclusion
